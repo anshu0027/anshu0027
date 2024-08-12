@@ -4,8 +4,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Frontend Frameworks<br>👯 I’m looking to collaborate on Frontend Projects<br>👨‍💻 All of my projects are available at https://github.com/anshu0027<br>📫 How to reach me patelanshu0027@gmail.com
 
-[![](https://visitcount.itsvg.in/api?id=anshu0027&icon=5&color=12)](https://visitcount.itsvg.in)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anshu0027&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
