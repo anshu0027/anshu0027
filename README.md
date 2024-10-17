@@ -1,5 +1,5 @@
 ## Anshu Patel 👋
-## Frontend Developer and Willing Entrepreneur 🎯
+## Frontend Developer 🎯
 
 # 💫 About Me:
 🌱 I’m currently learning Frontend Frameworks<br>👯 I’m looking to collaborate on Frontend Projects<br>👨‍💻 All of my projects are available at https://github.com/anshu0027<br>📫 How to reach me patelanshu0027@gmail.com
