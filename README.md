@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js, Mongo DB, Nest.js**
 
-- 👨‍💻 All of my projects are available at [https://anshu-patel-portfolio.vercel.app/](https://anshu-patel-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://anshu-freelance.vercel.app/](https://anshu-patel-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Figma, Designing**
 
