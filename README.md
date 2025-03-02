@@ -4,67 +4,49 @@
 </p>
 ---
 <h1 align="center" style="color:#FF4500; font-family: 'Montserrat', sans-serif;">"The Man. The Myth. The Monster."</h1>
+<h1 align="center">Hi 👋, I'm Anshu Patel</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu0027&label=Profile%20views&color=0e75b6&style=flat" alt="anshu0027" /> </p>
 
-<pre>
- ██          ██████  ██████          ███    ██  ██████  ████████ ██   ██ ██ ███    ██  ██████  
-███         ██    ██ ██   ██         ████   ██ ██    ██    ██    ██   ██ ██ ████   ██ ██       
- ██         ██    ██ ██████          ██ ██  ██ ██    ██    ██    ███████ ██ ██ ██  ██ ██   ███ 
- ██         ██    ██ ██   ██         ██  ██ ██ ██    ██    ██    ██   ██ ██ ██  ██ ██ ██    ██ 
- ██          ██████  ██   ██         ██   ████  ██████     ██    ██   ██ ██ ██   ████  ██████  </pre>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshu0027" alt="anshu0027" /></a> </p>
 
+- 🔭 I’m currently working on **Phantom Code**
 
+- 🌱 I’m currently learning **Express,JS & Nest.JS**
 
-## 👨‍💻 About Me  
-<p align="center" style="color:#C0C0C0; font-family: 'Nunito', sans-serif;">
-Hey, I'm <span style="color:#00E6E6; font-weight:bold;">Anshu Patel</span>, a passionate developer, designer, and tech enthusiast.  
-I love crafting futuristic experiences with <span style="color:#FFD700;">Next.js, React, and Tailwind CSS.</span>
+- 👯 I’m looking to collaborate on **Phantom Code**
+
+- 🤝 I’m looking for help with **Backend in MERN Stack**
+
+- 👨‍💻 All of my projects are available at [https://anshu-freelance.vercel.app](https://anshu-freelance.vercel.app)
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **anshupatel.work@gmail.com**
+
+- 📄 Know about my experiences [https://anshu-freelance.vercel.app](https://anshu-freelance.vercel.app)
+
+- ⚡ Fun fact **I THINK I'M FUNNY**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/okkanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okkanshu" height="30" width="40" /></a>
+<a href="https://instagram.com/anshu.freelance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshu.freelance" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/anshu-freelance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anshu-freelance" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abc" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abc" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abc" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abc" height="30" width="40" /></a>
+<a href="https://discord.gg/abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abc" height="30" width="40" /></a>
 </p>
 
-### 🚀 My Interests  
-- 🌐 **Web Development & UI/UX**  
-- 🎨 **Creative Designing**  
-- 🤖 **AI & Automation**  
-- 🎵 **Music & Tech**  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 🛠️ My Skills  
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white">  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">  
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu0027&show_icons=true&locale=en&layout=compact" alt="anshu0027" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshu0027&show_icons=true&locale=en" alt="anshu0027" /></p>
 
-## 🔥 Featured Projects  
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="background: linear-gradient(135deg, #1a1a1a, #242424); padding: 20px; border-radius: 12px; width: 45%; box-shadow: 0px 0px 10px #007BFF; border: 1px solid #007BFF;">
-    <h3 style="color: #00E6E6; font-family: 'Poppins', sans-serif;">🚀 Project One</h3>
-    <p style="color: #C0C0C0; font-family: 'Nunito', sans-serif;">A futuristic portfolio built using Next.js, featuring smooth animations and a Bento Grid design.</p>
-    <a href="https://yourprojectlive.com" style="color: #FF007F; font-weight: bold;">🔗 Live Preview</a>
-  </div>
-  <div style="background: linear-gradient(135deg, #1a1a1a, #242424); padding: 20px; border-radius: 12px; width: 45%; box-shadow: 0px 0px 10px #8A2BE2; border: 1px solid #8A2BE2;">
-    <h3 style="color: #FF4500; font-family: 'Poppins', sans-serif;">🛠️ Project Two</h3>
-    <p style="color: #C0C0C0; font-family: 'Nunito', sans-serif;">An AI-powered chatbot built using Next.js and OpenAI API.</p>
-    <a href="https://yourprojectlive.com" style="color: #FF007F; font-weight: bold;">🔗 Live Preview</a>
-  </div>
-</div>
-
----
-
-## 📢 Let's Connect!  
-<div align="center">
-  <a href="https://instagram.com/anshu.freelance"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://youtube.com/anshu-freelance"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://t.me/yourhandle"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://discord.gg/yourserver"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</div>
-
----
-
-<p align="center" style="color:#00FF00; font-size: 20px; font-family: 'Poppins', sans-serif; font-weight: bold;">
-🚀 Let's Build the Future Together!  
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshu0027&" alt="anshu0027" /></p>
