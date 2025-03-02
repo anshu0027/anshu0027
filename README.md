@@ -2,9 +2,8 @@
   <img src="https://drive.google.com/uc?export=download&id=1zKYB7YnVIgBnoTHh1pH3_5mhXeyV6ChY" 
        alt="Profile Banner" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px #FF007F;">
 </p>
----
+
 <h1 align="center" style="color:#FF4500; font-family: 'Montserrat', sans-serif;">"The Man. The Myth. The Monster."</h1>
-<h1 align="center">Hi 👋, I'm Anshu Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu0027&label=Profile%20views&color=0e75b6&style=flat" alt="anshu0027" /> </p>
