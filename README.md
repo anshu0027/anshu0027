@@ -7,7 +7,7 @@
 
 ## 🎨 Profile Banner  
 <p align="center">
-  <img src="https://drive.google.com/file/d/1zKYB7YnVIgBnoTHh1pH3_5mhXeyV6ChY/view?usp=sharing" 
+  <img src="https://drive.google.com/uc?export=download&id=1zKYB7YnVIgBnoTHh1pH3_5mhXeyV6ChY" 
        alt="Profile Banner" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px #FF007F;">
 </p>
 
@@ -24,21 +24,22 @@
 ## 🎵 Now Playing  
 <div align="center">
   <audio controls autoplay style="border-radius: 10px; box-shadow: 0px 0px 15px #00E6E6;">
-    <source src="https://drive.google.com/uc?export=download&id=1_CXFmiKWOa4VOxRXhcZmAgD-prqMU5g0" type="audio/mp3">
+    <source src="https://www.dropbox.com/scl/fi/t4m4j234oaj9cndbvmkgt/Beyond-the-Code.mp3?rlkey=p19fhtsin5siwewlb4ysynqrx&st=mtn5ay1o&dl=0" type="audio/mp3">
     Your browser does not support the audio element.
   </audio>
 </div>
+
 ---
 
 ## 🔥 Techy ASCII Art  
-```
+<pre>
  ██          ██████  ██████          ███    ██  ██████  ████████ ██   ██ ██ ███    ██  ██████  
 ███         ██    ██ ██   ██         ████   ██ ██    ██    ██    ██   ██ ██ ████   ██ ██       
  ██         ██    ██ ██████          ██ ██  ██ ██    ██    ██    ███████ ██ ██ ██  ██ ██   ███ 
  ██         ██    ██ ██   ██         ██  ██ ██ ██    ██    ██    ██   ██ ██ ██  ██ ██ ██    ██ 
  ██          ██████  ██   ██         ██   ████  ██████     ██    ██   ██ ██ ██   ████  ██████  
-```                                                                                               
-                                                                                               
+</pre>
+
 ---
 
 ## 👨‍💻 About Me  
