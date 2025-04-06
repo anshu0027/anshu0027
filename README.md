@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center" style="color:#FF4500; font-family: 'Montserrat', sans-serif;">"The Man. The Myth. The Monster."</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer and Prompt Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu0027&label=Profile%20views&color=0e75b6&style=flat" alt="anshu0027" /> </p>
 
